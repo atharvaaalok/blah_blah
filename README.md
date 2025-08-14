@@ -15,7 +15,6 @@ adfadsf
 
   - Data methods for fluids have mainly focussed on dimensionality reduction with methods like
     POD, DMD etc.
-
     Pros:
     - Dimensionality reduction providing gains in compute and memory.
     - Physically interpretable features.
