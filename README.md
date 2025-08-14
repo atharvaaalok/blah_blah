@@ -14,11 +14,10 @@ adfadsf
   <summary>Main Takeaways</summary>
 
   - Data methods for fluids have mainly focussed on dimensionality reduction with methods like
-    POD, DMD etc.
+    POD, DMD etc.  
     Pros:
     - Dimensionality reduction providing gains in compute and memory.
-    - Physically interpretable features.
-    
+    - Physically interpretable features.  
     Cons:
     - Cannot capture transient and multi-scale phenomenon.
     - Cannot capture invariances like translation, rotation, scaling.
